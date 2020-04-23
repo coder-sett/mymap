@@ -1,2 +1,2 @@
 
-a vue.js map
+a webgis map
